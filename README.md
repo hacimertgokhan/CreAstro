@@ -1,5 +1,6 @@
 # CreAstro
- Github repository management system
+Github repository management system,
+For using CreAstro, you need a github user token. There is no other option.
 
 # Commands
 ```
